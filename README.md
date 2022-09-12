@@ -21,10 +21,10 @@
 # Favorite Projects
 ## Iki-Music
 Full-stack Music Web Application. [Click Here](https://github.com/CastroShane/Iki-Music) to learn more!
-![https://im4.ezgif.com/tmp/ezgif-4-48d7aafaec.webp](https://github.com/CastroShane/Iki-Music)
+![https://im4.ezgif.com/tmp/ezgif-4-48d7aafaec.webp](https://im4.ezgif.com/tmp/ezgif-4-48d7aafaec.webp)
 
 ## E-Commerce App
-Full-stack E-Commerce Application. [Click Here](https://github.com/CastroShane/ecommerce-project) to learn more!\
-![https://user-images.githubusercontent.com/76791687/186236204-001def0e-54d5-4d26-a0f0-6a25a9c25f26.png](https://github.com/CastroShane/ecommerce-project)
+Full-stack E-Commerce Application. [Click Here](https://github.com/CastroShane/ecommerce-project) to learn more!
+![https://user-images.githubusercontent.com/76791687/186236204-001def0e-54d5-4d26-a0f0-6a25a9c25f26.png](https://user-images.githubusercontent.com/76791687/186236204-001def0e-54d5-4d26-a0f0-6a25a9c25f26.png)
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=castroshane&show_icons=true&locale=en&layout=compact" alt="castroshane" /></p>
