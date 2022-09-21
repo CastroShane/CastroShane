@@ -21,7 +21,10 @@
 # Favorite Projects
 ## Iki-Music
 Full-stack Music Web Application. [Click Here](https://github.com/CastroShane/Iki-Music) to learn more!
-https://user-images.githubusercontent.com/98923162/191601489-8c422c86-a004-48b5-a7ab-1a749fe970eb.mp4
+
+
+https://user-images.githubusercontent.com/98923162/191601973-d86558d3-7dae-4d2c-942f-54ba7d8714b3.mp4
+
 
 ## E-Commerce App
 Full-stack E-Commerce Application. [Click Here](https://github.com/CastroShane/ecommerce-project) to learn more!
