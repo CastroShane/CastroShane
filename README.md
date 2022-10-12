@@ -30,4 +30,3 @@ https://user-images.githubusercontent.com/98923162/191601973-d86558d3-7dae-4d2c-
 Full-stack E-Commerce Application. [Click Here](https://github.com/CastroShane/ecommerce-project) to learn more!
 ![https://user-images.githubusercontent.com/76791687/186236204-001def0e-54d5-4d26-a0f0-6a25a9c25f26.png](https://user-images.githubusercontent.com/76791687/186236204-001def0e-54d5-4d26-a0f0-6a25a9c25f26.png)
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=castroshane&show_icons=true&locale=en&layout=compact" alt="castroshane" /></p>
