@@ -22,6 +22,7 @@
 ## Iki-Music
 Full-stack Music Web Application. [Click Here](https://github.com/CastroShane/Iki-Music) to learn more!
 
+[DEMO](https://iki-music.netlify.app/)
 
 https://user-images.githubusercontent.com/98923162/191601973-d86558d3-7dae-4d2c-942f-54ba7d8714b3.mp4
 
