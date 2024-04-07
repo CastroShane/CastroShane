@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shane</h1>
 <h3 align="center">Full-Stack Software Developer</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently studying for **AWS Solutions Architect Exam**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CastroShane](https://github.com/CastroShane)
 
